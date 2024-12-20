@@ -1,0 +1,5 @@
+names:
+- pothole
+nc: 1
+train: /Users/yeonjae-jeong/Documents/PotholeDetector/dataset/train.txt
+val: /Users/yeonjae-jeong/Documents/PotholeDetector/dataset/val.txt
